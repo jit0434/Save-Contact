@@ -1,6 +1,11 @@
-# Save-Contact# Save-Contact
+# Save-Contact 
+Save-Contact https://github.com/jit0434/Save-Contact
+Activity-Recogination  https://github.com/jit0434/Activity-Recognition
+Snoring-Detection https://github.com/jit0434/Snoring-Detection
 
 ## Question No. 1
+
+
 
 This assignment has three parts: download a contact file, add data to Phone Contacts using
 code (not by Contact software), show the people’s positions with their names on Google
