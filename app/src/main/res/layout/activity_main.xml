@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.papa.save_contacts.MainActivity">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/btnmap"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SHOW MAP"
+            android:layout_marginLeft="20dp"
+            />
+
+        <Button
+            android:id="@+id/btnsavecnct"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SAVE CONTACTS"
+            android:layout_marginLeft="220dp"
+            />
+    </RelativeLayout>
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayoutContact"
+        android:orientation="vertical">
+
+    </LinearLayout>
+</ScrollView>
+
+</LinearLayout>
