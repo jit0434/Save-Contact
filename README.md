@@ -1,11 +1,15 @@
 # Save-Contact 
+
+Android application to download contacts from the given url, show the contact details on main screen.
+Two button on main screen Save button to save downloaded contacts to contact list of phone
+Show button for showing all the contacts location on google map.
+
+
 Save-Contact https://github.com/jit0434/Save-Contact
 Activity-Recogination  https://github.com/jit0434/Activity-Recognition
 Snoring-Detection https://github.com/jit0434/Snoring-Detection
 
 ## Question No. 1
-
-
 
 This assignment has three parts: download a contact file, add data to Phone Contacts using
 code (not by Contact software), show the people’s positions with their names on Google
